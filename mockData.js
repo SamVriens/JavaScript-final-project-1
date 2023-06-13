@@ -98,5 +98,5 @@ module.exports = {
   { "first_name": "Matelda", "last_name": "Ellam", "age": 38, "gender": "F", "gender_interest": "F", "location": "rural", "min_age_interest": 18, "max_age_interest": 67 },
   { "first_name": "Marleah", "last_name": "Leggan", "age": 62, "gender": "X", "gender_interest": "X", "location": "rural", "min_age_interest": 39, "max_age_interest": 97 },
   { "first_name": "Gaultiero", "last_name": "Lawey", "age": 47, "gender": "X", "gender_interest": "B", "location": "rural", "min_age_interest": 29, "max_age_interest": 97 },
-  { "first_name": "Payton", "last_name": "Lonsbrough", "age": 49, "gender": "F", "gender_interest": "B", "location": "city", "min_age_interest": 24, "max_age_interest": 70 }]
+  { "first_name": "Payton", "last_name": "Lonsbroug", "age": 49, "gender": "F", "gender_interest": "B", "location": "city", "min_age_interest": 24, "max_age_interest": 70 }]
 }

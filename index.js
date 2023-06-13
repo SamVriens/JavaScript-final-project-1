@@ -108,10 +108,6 @@ console.log("Possible matches:");
 for (const match of matches) {
   console.log(`Name: ${"❤️ "} ${match.first_name} ${match.last_name}, Age: ${match.age}, Location: ${match.location} ${"❤️"}`);
 }
-// console.log("Possible matches:");
-// for (const match of matches) {
-//   console.log(`Name: ${match.first_name} ${match.last_name}, Age: ${match.age}, Location: ${match.location}`);
-// }
 
 // Number of matches
 console.log(`Number of matches: ${matches.length}`);
