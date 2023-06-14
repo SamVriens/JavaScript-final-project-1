@@ -3,7 +3,6 @@
 const mockData = require('./mockData.js').data;
 
 // Your code here
-// console.log(mockData)
 let profileSelf = {};
 
 function askFirstName() {
@@ -102,8 +101,7 @@ for (const person of mockData) {
   }
 }
 
-// Printing matches
-// Printing matches
+// Print matches
 console.log("Possible matches:");
 for (const match of matches) {
   console.log(`Name: ${"❤️ "} ${match.first_name} ${match.last_name}, Age: ${match.age}, Location: ${match.location} ${"❤️"}`);
